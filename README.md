@@ -2,11 +2,14 @@
 
 ## clang-format
 
-Use file [.clang-format](.clang-format) to format cpp files
+格式化cpp文件的工具
+- [.clang-format](.clang-format)
 
 ## string
 
-std::string的简单版本的实现[sz_string.h](string/sz_string.h)
+std::string的简单版本的实现，详细参考：
+- [sz_string.h](string/sz_string.h)
+- [sz_string.cpp](string/sz_string.cpp)
 
 ## std::allocator
 
