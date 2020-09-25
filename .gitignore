@@ -1,5 +1,5 @@
-*
+.idea
+build
+cmake-build-debug
+.DS_Store
 
-!.clang-format
-!.gitignore
-!README.md
