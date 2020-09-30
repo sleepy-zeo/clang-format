@@ -7,3 +7,5 @@ add_subdirectory(string)
 add_subdirectory(string/example)
 
 add_executable(${PROJECT_NAME} main.cpp)
+
+add_executable(meta meta-programming/meta.cpp)
