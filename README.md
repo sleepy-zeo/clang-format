@@ -11,3 +11,8 @@
 std::string的简单版本的实现，详细参考：
 - [sz_string.h](string/sz_string.h)
 - [sz_string.cpp](string/sz_string.cpp)
+
+## state
+状态转换处理流程
+- [StateManager.h](sm/StateManager.h)
+- [StateManager.cpp](sm/StateManager.cpp)
